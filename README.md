@@ -9,5 +9,5 @@ This is still a work-in-progress, but usable
 
 ### TODO:
 - [x] Finish up refence dimentions from the spreadsheet
-- [] Lower the tollerance on some of the slots (too tight but usable when tested)
+- [x] Lower the tollerance on some of the slots (too tight but usable when tested)
 - [] (maybe?) Create an assembly instructions/diagram
