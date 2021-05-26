@@ -27,6 +27,12 @@ An SVG has been made with all pieces on it, which can found in [SVG_Pieces_Drawi
 
 While you can 3D print the pieces, it is not recommended as A) This enclosure wasn't designed with an FDM manufacturing in mind, otherwise I would have done it differently, and B) The slots are toleranced negatively (so the slots are wider than the holes) due to how laser cutting acrylic melts some of the material.
 
+### Software
+
+The software on the Arduino can be anything you want it to be, so go nuts! 
+
+As of right now there is only 1 game written for it by me, which is a basic stacker game. The game is functional, but requires a development/unreleased version of my LED Matrix Library. More details at [https://github.com/Electro707/arduino_matrix_arcade_stacker](https://github.com/Electro707/arduino_matrix_arcade_stacker)
+
 ### TODO:
 - [x] Finish up reference dimensions from the spreadsheet
 - [x] Lower the tolerances on some of the slots (too tight but usable when tested)
