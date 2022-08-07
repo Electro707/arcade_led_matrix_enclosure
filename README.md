@@ -36,4 +36,7 @@ As of right now there is only 1 game written for it by me, which is a basic stac
 ### TODO:
 - [x] Finish up reference dimensions from the spreadsheet
 - [x] Lower the tolerances on some of the slots (too tight but usable when tested)
-- []  Create an assembly instructions/diagram
+- [x]  Create an assembly instructions/diagram
+
+### Credits:
+- Arduino Nano Model: [https://grabcad.com/library/arduino-nano-ch430g-1](https://grabcad.com/library/arduino-nano-ch430g-1)
