@@ -2,9 +2,12 @@
 
 This enclosure is for an LED matrix (16x2), 2 buttons, and some microcontroller (Arduino Nano for example) designed in the shape of an arcade game.
 
-As of right now a Rev1.0 is released, but there is no official instructions for assembling this (potentially coming soon).
+As of right now a Rev1.0 is released.
 
 ![rev1_image](misc/DSC07092_01.jpg)
+
+### Assembly Instructions
+The assembly instructions for this enclosure can be found in [Assembly.pdf](Assembly.pdf)
 
 ### BOM:
 The following BOM represents the items, other than a laser cutter for the acrylic piece, to make this arcade game:
@@ -36,7 +39,7 @@ As of right now there is only 1 game written for it by me, which is a basic stac
 ### TODO:
 - [x] Finish up reference dimensions from the spreadsheet
 - [x] Lower the tolerances on some of the slots (too tight but usable when tested)
-- [x]  Create an assembly instructions/diagram
+- [x] Create an assembly instructions/diagram
 
 ### Credits:
 - Arduino Nano Model: [https://grabcad.com/library/arduino-nano-ch430g-1](https://grabcad.com/library/arduino-nano-ch430g-1)
